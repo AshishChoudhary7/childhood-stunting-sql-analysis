@@ -146,10 +146,8 @@ childhood-stunting-sql-analysis/
 ├── README.md
 │
 ├── sql/
-│   └── childhood_stunting_analysis.sql
-│
-└── data/
-    └── README.md
+    └── childhood_stunting_analysis.sql
+
 ```
 
 The SQL file contains the complete analysis organized into logical sections, starting with data validation and progressing through exploratory and targeted analysis.
